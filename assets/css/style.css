@@ -316,7 +316,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("/Libin/mystuff/libinthedev.JPG") center;
+  background: url("/mystuff/libinthedev.JPG") center;
   background-size: cover;
   position: relative;
 }
